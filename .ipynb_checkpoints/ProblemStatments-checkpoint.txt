@@ -1,0 +1,6 @@
+- Check the seasonality in the price? Give yes and no answer. 
+- What is considered as anomaly in the price movement?
+- rate of change? How much time to reach the top or bottom?
+- news effect on the the price?
+- Linear Regression on the price. 
+- Good Resource to learn linear regression - https://realpython.com/linear-regression-in-python/#linear-regression
