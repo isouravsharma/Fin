@@ -1,2 +1,3 @@
 - Calculate the Nifty Return and visualize it 
 - compare the multiple stocks with Nifty return
+- need to learn more.. no decision or trying yet. 
